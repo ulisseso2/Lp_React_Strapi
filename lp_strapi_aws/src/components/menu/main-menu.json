@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_menu_main_menus",
+  "info": {
+    "displayName": "main_menu",
+    "icon": "band-aid",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title_menu": {
+      "type": "string",
+      "required": true
+    },
+    "logo_menu": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "link_text": {
+      "type": "component",
+      "repeatable": true,
+      "component": "menu.link-menu",
+      "required": true
+    }
+  }
+}

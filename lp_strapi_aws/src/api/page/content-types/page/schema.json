@@ -29,6 +29,17 @@
         "section.section-text-simple"
       ],
       "required": true
+    },
+    "Menu": {
+      "type": "component",
+      "repeatable": false,
+      "component": "menu.main-menu",
+      "required": true
+    },
+    "Footer": {
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.footer"
     }
   }
 }
