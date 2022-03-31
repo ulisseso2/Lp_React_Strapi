@@ -1,6 +1,4 @@
 import { useEffect, useState } from 'react';
-import { ThemeProvider } from 'styled-components';
-import { mainTheme } from '../../styles/themes';
 import * as Styled from './styles';
 
 export const Home = () => {
@@ -8,11 +6,13 @@ export const Home = () => {
 
   return (
     <Styled.Container>
-      <ThemeProvider theme={mainTheme}>
-        <Styled.H1 color={texto}>Hello, World!</Styled.H1>
-        <p>{texto}</p>
-        <input type="color" onChange={(e) => settexto(e.target.value)} />
-      </ThemeProvider>
+      <Styled.H1 color={'red'}>Hello, World!</Styled.H1>
+      <p>{texto}</p>
+      <input
+        type="text"
+        onChange={(e) => settexto(e.target.value)}
+        placeholder="Write a color in English"
+      />
     </Styled.Container>
   );
 };

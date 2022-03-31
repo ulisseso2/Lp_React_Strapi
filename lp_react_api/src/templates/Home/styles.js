@@ -1,7 +1,11 @@
 import styled, { css } from 'styled-components';
 
 export const Container = styled.div`
-  background-image: url(https://res.cloudinary.com/odisseia/image/upload/v1648590808/fundo-da-textura-da-cortic%CC%A7a-11979169_nnzyi6.jpg);
+  ${({ theme }) => css`
+    background-color: ${theme.colors.primary};
+    color: ${theme.colors.hot};
+    font-family: ${theme.fonts.main};
+  `}
   padding: 10px;
 `;
 export const H1 = styled.h1`
