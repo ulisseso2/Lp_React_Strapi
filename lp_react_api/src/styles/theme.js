@@ -8,8 +8,11 @@ export const theme = {
     black: '#343434',
   },
   fonts: {
-    main: 'Arial',
-    body: 'Open Sans',
-    title: 'Oswald',
+    family: {
+      main: "'Open Sans', sans-serif",
+      title: "'Montserrat', sans-serif",
+      body: "'Open Sans', sans-serif",
+    },
   },
 };
+//tema padrão da aplicação usado em vários componentes

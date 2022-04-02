@@ -13,4 +13,8 @@ export const GlobalStyles = createGlobalStyle`
 
 
   }
+  h1 {
+    font-family: font-family: ;
+  }
 `;
+// Estilo global da aplicação
