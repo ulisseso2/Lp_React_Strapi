@@ -2,15 +2,15 @@ import styled, { css } from 'styled-components';
 
 export const Container = styled.div`
   ${({ theme }) => css`
-    background-color: ${theme.colors.primary};
-    color: ${theme.colors.hot};
-    font-family: ${theme.fonts.family.main};
+    background-color: ${theme.colors.primaryColor};
+    color: ${theme.colors.white};
+    font-family: ${theme.font.family.default};
   `}
   padding: 10px;
 `;
 export const H1 = styled.h1`
   ${({ theme }) => css`
-    font-family: ${theme.fonts.family.title};
+    font-family: ${theme.font.family.secondary};
     font-size: 30px;
   `}
   ${(props) => css`

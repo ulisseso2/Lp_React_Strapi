@@ -14,7 +14,9 @@ export const Home = () => {
         onChange={(e) => settext(e.target.value)}
         placeholder="Write a color in English"
       />
-      <Heading>Brasil</Heading>
+      <Heading colorDark={false} as={'h1'} size={'huge'} uppercase={true}>
+        Brasil
+      </Heading>
     </Styled.Container>
   );
 };
