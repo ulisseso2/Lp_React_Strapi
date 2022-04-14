@@ -11,7 +11,7 @@ export const parameters = { //pertence ao próprio storeybook aqui eu configuro 
     },
   },
   backgrounds: {
-    default: 'dark',
+    default: 'light',
     values: [
       {
         name: 'dark',

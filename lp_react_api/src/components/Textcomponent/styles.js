@@ -1,7 +1,7 @@
 import styled, { css } from 'styled-components';
 
-export const Container = styled.div`
+export const Container = styled.p`
   ${({ theme }) => css`
-    background-color: red;
+    font-size: ${theme.font.sizes.medium};
   `}
 `;
