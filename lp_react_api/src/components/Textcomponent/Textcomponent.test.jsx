@@ -16,9 +16,4 @@ describe('<Textcomponent>', () => {
 
     expect(textcomponent).toHaveStyle({ 'font-size': theme.font.sizes.medium });
   });
-  //it('should match Snapshot', () => {
-  //const { container } = renderTheme(<Textcomponent>texto</Textcomponent>);
-
-  //expect(container.firstChild).toMatchInlineSnapshot();
-  //});
 });

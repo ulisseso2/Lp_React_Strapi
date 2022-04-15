@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavLink> should match snapshot 1`] = `
+<nav
+  class="sc-bczRLJ jMCoZx"
+>
+  <a
+    class="sc-gsnTZi jdBGwK"
+    href="#target1"
+    target="_self"
+  >
+    link 1
+  </a>
+  <a
+    class="sc-gsnTZi jdBGwK"
+    href="#target2"
+    target="_self"
+  >
+    link 2
+  </a>
+  <a
+    class="sc-gsnTZi jdBGwK"
+    href="#target3"
+    target="_self"
+  >
+    link 3
+  </a>
+  <a
+    class="sc-gsnTZi jdBGwK"
+    href="#target4"
+    target="_self"
+  >
+    link 4
+  </a>
+  <a
+    class="sc-gsnTZi jdBGwK"
+    href="#target5"
+    target="_self"
+  >
+    link 5
+  </a>
+</nav>
+`;

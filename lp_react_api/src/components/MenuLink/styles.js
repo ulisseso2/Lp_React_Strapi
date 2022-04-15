@@ -6,13 +6,13 @@ export const Container = styled.a`
     font-size: ${theme.font.sizes.small};
     text-decoration: none;
     padding: ${theme.spacings.small};
-    color: ${theme.colors.promaryColor};
+    color: ${theme.colors.primaryColor};
     font-weight: 400;
     position: relative;
     &::after {
       content: '';
       position: absolute;
-      bottom: 0;
+      bottom: 1rem;
       left: 50%;
       height: 0.2rem;
       width: 0px;
