@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MenuLogo> shold match snapshot 1`] = `
+<h1
+  class="sc-bczRLJ kukvte"
+>
+  <a
+    class="sc-gsnTZi gAnVRD"
+    href="#tardet"
+  >
+    <img
+      alt="Olá Mundo"
+      src="image.jpg"
+    />
+  </a>
+</h1>
+`;

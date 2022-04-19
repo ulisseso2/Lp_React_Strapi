@@ -1,16 +1,16 @@
 import { screen } from '@testing-library/react';
-import { NavLink } from '.';
+import { NavLinks } from '.';
 import { renderTheme } from '../../styles/render.theme';
 import { theme } from '../../styles/theme';
 import mock from './mock';
 
-describe('<NavLink>', () => {
+describe('<NavLinks>', () => {
   it('should render links mock', () => {
-    renderTheme(<NavLink links={mock} />);
+    renderTheme(<NavLinks links={mock} />);
     expect(screen.getAllByRole('link')).toHaveLength(mock.length);
   });
   it('should not render links', () => {
-    renderTheme(<NavLink />);
+    renderTheme(<NavLinks />);
     expect(screen.queryAllByText(/link/i)).toHaveLength(0);
   });
   // it('should render media menu', () => {
@@ -22,7 +22,7 @@ describe('<NavLink>', () => {
   //   );
   // });
   it('should match snapshot', () => {
-    const { container } = renderTheme(<NavLink links={mock} />);
+    const { container } = renderTheme(<NavLinks links={mock} />);
     expect(container.firstChild).toMatchSnapshot();
   });
 });
