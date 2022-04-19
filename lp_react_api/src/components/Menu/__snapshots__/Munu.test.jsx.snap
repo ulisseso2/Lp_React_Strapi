@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Menu> should render Logo and Main Menu nav 1`] = `
+<div>
+  <button
+    aria-label="Open/Close menu"
+    class="sc-eCYdqJ hOjmyw"
+  >
+    <svg
+      aria-hidden="true"
+      aria-label="Open menu"
+      class="StyledIconBase-ea9ulj-0 lbJwfL"
+      fill="currentColor"
+      focusable="false"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M0 0h24v24H0V0z"
+        fill="none"
+      />
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+  <div
+    class="sc-dkzDqf gDXxWM"
+  >
+    <div
+      class="sc-bczRLJ NjkoV"
+    >
+      <div
+        class="sc-hKMtZM gwBtOh"
+      >
+        <h1
+          class="sc-gsnTZi gGAKok"
+        >
+          <a
+            class="sc-iBkjds lbdrgb"
+            href="#target"
+          >
+            Logo
+          </a>
+        </h1>
+        <nav
+          aria-label="Main menu"
+          class="sc-jSMfEi imugUk"
+        >
+          <a
+            class="sc-gKXOVf doMymA"
+            href="#target1"
+            target="_self"
+          >
+            link 1
+          </a>
+          <a
+            class="sc-gKXOVf doMymA"
+            href="#target2"
+            target="_self"
+          >
+            link 2
+          </a>
+          <a
+            class="sc-gKXOVf doMymA"
+            href="#target3"
+            target="_self"
+          >
+            link 3
+          </a>
+          <a
+            class="sc-gKXOVf doMymA"
+            href="#target4"
+            target="_self"
+          >
+            link 4
+          </a>
+          <a
+            class="sc-gKXOVf doMymA"
+            href="#target5"
+            target="_self"
+          >
+            link 5
+          </a>
+        </nav>
+      </div>
+    </div>
+  </div>
+   
+</div>
+`;
