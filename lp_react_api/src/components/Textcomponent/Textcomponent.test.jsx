@@ -14,6 +14,6 @@ describe('<Textcomponent>', () => {
     renderTheme(<Textcomponent>texto</Textcomponent>);
     const textcomponent = screen.getByText('texto');
 
-    expect(textcomponent).toHaveStyle({ 'font-size': theme.font.sizes.medium });
+    expect(textcomponent).toHaveStyle({ 'font-size': theme.font.sizes.small });
   });
 });

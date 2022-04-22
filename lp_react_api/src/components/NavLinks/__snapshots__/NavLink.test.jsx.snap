@@ -6,35 +6,35 @@ exports[`<NavLinks> should match snapshot 1`] = `
   class="sc-bczRLJ jMCoZx"
 >
   <a
-    class="sc-gsnTZi jdBGwK"
+    class="sc-gsnTZi fAkwIk"
     href="#target1"
     target="_self"
   >
     link 1
   </a>
   <a
-    class="sc-gsnTZi jdBGwK"
+    class="sc-gsnTZi fAkwIk"
     href="#target2"
     target="_self"
   >
     link 2
   </a>
   <a
-    class="sc-gsnTZi jdBGwK"
+    class="sc-gsnTZi fAkwIk"
     href="#target3"
     target="_self"
   >
     link 3
   </a>
   <a
-    class="sc-gsnTZi jdBGwK"
+    class="sc-gsnTZi fAkwIk"
     href="#target4"
     target="_self"
   >
     link 4
   </a>
   <a
-    class="sc-gsnTZi jdBGwK"
+    class="sc-gsnTZi fAkwIk"
     href="#target5"
     target="_self"
   >

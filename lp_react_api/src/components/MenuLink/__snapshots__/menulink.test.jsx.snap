@@ -2,7 +2,7 @@
 
 exports[`<MenuLink> should match snapshot 1`] = `
 <a
-  class="sc-bczRLJ hfzFBI"
+  class="sc-bczRLJ evjXeG"
   href="http://localhost"
   target="_self"
 >

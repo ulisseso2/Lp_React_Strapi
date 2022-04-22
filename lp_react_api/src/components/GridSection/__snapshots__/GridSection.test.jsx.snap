@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridSection> should render with default values 1`] = `
+<div>
+  <div
+    class="sc-gKXOVf dgAgri"
+    id=""
+  >
+    <div
+      class="sc-jSMfEi cRkChI"
+    >
+      <div
+        class="sc-dkzDqf budGeo"
+      >
+        <h2
+          class="sc-bczRLJ hGDuJC"
+        >
+          My grid
+        </h2>
+        <p
+          class="sc-gsnTZi cUyYvE"
+        >
+          Assumenda, animi praesentium voluptas velit voluptatum quam repudiandae, impedit minus consequatur iusto atque voluptatem numquam, aliquam tempore ratione culpa facere asperiores inventore?
+        </p>
+        <div
+          class="sc-hKMtZM kSrfHP"
+        >
+          <div
+            class="sc-eCYdqJ jWNvvV"
+          >
+            <h3
+              class="sc-bczRLJ fnHBwd"
+            >
+              Teste a
+            </h3>
+            <p
+              class="sc-gsnTZi cUyYvE"
+            >
+              Lorem 1 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+            </p>
+          </div>
+          <div
+            class="sc-eCYdqJ jWNvvV"
+          >
+            <h3
+              class="sc-bczRLJ fnHBwd"
+            >
+              Teste b
+            </h3>
+            <p
+              class="sc-gsnTZi cUyYvE"
+            >
+              Lorem 2 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+            </p>
+          </div>
+          <div
+            class="sc-eCYdqJ jWNvvV"
+          >
+            <h3
+              class="sc-bczRLJ fnHBwd"
+            >
+              Teste c
+            </h3>
+            <p
+              class="sc-gsnTZi cUyYvE"
+            >
+              Lorem 3 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+   
+</div>
+`;
+
+exports[`<GridSection> should render with default values 2`] = `
+<div>
+  <div
+    class="sc-gKXOVf dgAgri"
+    id=""
+  >
+    <div
+      class="sc-jSMfEi cRkChI"
+    >
+      <div
+        class="sc-dkzDqf budGeo"
+      >
+        <h2
+          class="sc-bczRLJ hGDuJC"
+        >
+          My grid
+        </h2>
+        <p
+          class="sc-gsnTZi cUyYvE"
+        >
+          Assumenda, animi praesentium voluptas velit voluptatum quam repudiandae, impedit minus consequatur iusto atque voluptatem numquam, aliquam tempore ratione culpa facere asperiores inventore?
+        </p>
+        <div
+          class="sc-hKMtZM kSrfHP"
+        >
+          <div
+            class="sc-eCYdqJ jWNvvV"
+          >
+            <h3
+              class="sc-bczRLJ fnHBwd"
+            >
+              Teste a
+            </h3>
+            <p
+              class="sc-gsnTZi cUyYvE"
+            >
+              Lorem 1 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+            </p>
+          </div>
+          <div
+            class="sc-eCYdqJ jWNvvV"
+          >
+            <h3
+              class="sc-bczRLJ fnHBwd"
+            >
+              Teste b
+            </h3>
+            <p
+              class="sc-gsnTZi cUyYvE"
+            >
+              Lorem 2 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+            </p>
+          </div>
+          <div
+            class="sc-eCYdqJ jWNvvV"
+          >
+            <h3
+              class="sc-bczRLJ fnHBwd"
+            >
+              Teste c
+            </h3>
+            <p
+              class="sc-gsnTZi cUyYvE"
+            >
+              Lorem 3 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+   
+</div>
+`;

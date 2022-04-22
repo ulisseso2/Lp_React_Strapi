@@ -3,7 +3,7 @@ import styled, { css } from 'styled-components';
 import { Title } from '../Heading/styles';
 
 export const Container = styled.div`
-  ${({ theme, background }) => css`
+  ${({ theme }) => css`
     display: grid;
     grid-template-columns: 1fr 2fr;
     align-items: center;
@@ -14,7 +14,6 @@ export const Container = styled.div`
     }
     ${Title} {
       margin-bottom: ${theme.spacings.xlarge};
-      color: ${background ? theme.colors.white : theme.colors.primaryColor};
     }
   `}
 `;
@@ -22,13 +21,10 @@ export const TextContainer = styled.div`
   ${({ theme }) => css``}
 `;
 export const ImgContainer = styled.div`
-  ${({ theme }) => css`
-    display: flex;
-    max-width: 500px;
-  `}
+  ${({ theme }) => css``}
 `;
 export const Image = styled.img`
   ${({ theme }) => css`
-    max-width: 500px;
+    width: 100%;
   `}
 `;

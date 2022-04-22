@@ -1,12 +1,10 @@
-import { toHaveStyle } from '@testing-library/jest-dom/dist/matchers';
-import { render, screen } from '@testing-library/react';
-import { Children } from 'react';
+import { createEvent, screen, fireEvent, render } from '@testing-library/react';
 import { Home } from '.';
 import { renderTheme } from '../../styles/render.theme';
-import { theme } from '../../styles/theme';
 
-describe('<HOME>', () => {
-  it('render Home', () => {
-    renderTheme(<Home />);
+describe('<Home>', () => {
+  it('should render with default values', () => {
+    const { container } = renderTheme(<Home />);
+    expect(container).toBeInTheDocument();
   });
 });

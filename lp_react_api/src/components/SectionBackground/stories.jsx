@@ -1,22 +1,20 @@
 import { SectionBackground } from '.';
 import { SectionContainer } from '../SectionContainer';
+
 export default {
   title: 'SectionBackground',
   component: SectionBackground,
   args: {
     children: (
-      <SectionContainer>
-        <div>
-          <h1> Section Background</h1>
-
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi
-            repellat a, consequatur alias exercitationem odio blanditiis
-            quibusdam minima at voluptates molestiae, velit, voluptate delectus
-            doloremque? Nulla quae non itaque vitae?
-          </p>
-        </div>
-      </SectionContainer>
+      <div>
+        <h1>SectionBackground</h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque
+          doloribus debitis minima nam beatae alias eius, mollitia asperiores
+          animi dolorem esse, aperiam nesciunt praesentium. Labore vel optio
+          quaerat aspernatur expedita!
+        </p>
+      </div>
     ),
   },
   argTypes: {

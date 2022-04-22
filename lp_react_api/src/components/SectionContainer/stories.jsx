@@ -1,16 +1,17 @@
 import { SectionContainer } from '.';
+
 export default {
   title: 'SectionContainer',
   component: SectionContainer,
   args: {
     children: (
       <div>
-        <h1> SectionContainer </h1>
+        <h1>SectionContainer</h1>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit sunt
-          architecto aspernatur ipsum eum porro, possimus ut, ipsam molestias
-          quod doloribus sapiente blanditiis repellendus facilis aliquam
-          delectus, quaerat reiciendis quae.
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque
+          doloribus debitis minima nam beatae alias eius, mollitia asperiores
+          animi dolorem esse, aperiam nesciunt praesentium. Labore vel optio
+          quaerat aspernatur expedita!
         </p>
       </div>
     ),
