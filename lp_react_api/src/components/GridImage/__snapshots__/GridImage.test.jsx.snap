@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridImage> should render with default values 1`] = `
+<div>
+  <div
+    class="sc-gKXOVf dgAgri"
+    id=""
+  >
+    <div
+      class="sc-jSMfEi cRkChI"
+    >
+      <div
+        class="sc-bczRLJ edGOPd"
+      >
+        <div
+          class="sc-gsnTZi gaQnzH"
+        >
+          <h2
+            class="sc-iBkjds xsJLf"
+          >
+            Grid de Imagens
+          </h2>
+          <div
+            class="sc-ftvSup fPvrFX"
+          >
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci numquam explicabo error omnis cumque.
+          </div>
+        </div>
+        <div
+          class="sc-dkzDqf jjpYOo"
+        >
+          <div
+            class="sc-hKMtZM gtoZYg"
+          >
+            <img
+              alt="Foto 1"
+              class="sc-eCYdqJ likfFv"
+              src="https://source.unsplash.com/random/800x800?r=1"
+            />
+          </div>
+          <div
+            class="sc-hKMtZM gtoZYg"
+          >
+            <img
+              alt="Foto 2"
+              class="sc-eCYdqJ likfFv"
+              src="https://source.unsplash.com/random/800x800?r=2"
+            />
+          </div>
+          <div
+            class="sc-hKMtZM gtoZYg"
+          >
+            <img
+              alt="Foto 3"
+              class="sc-eCYdqJ likfFv"
+              src="https://source.unsplash.com/random/800x800?r=3"
+            />
+          </div>
+          <div
+            class="sc-hKMtZM gtoZYg"
+          >
+            <img
+              alt="Foto 3"
+              class="sc-eCYdqJ likfFv"
+              src="https://source.unsplash.com/random/800x800?r=4"
+            />
+          </div>
+          <div
+            class="sc-hKMtZM gtoZYg"
+          >
+            <img
+              alt="Foto 3"
+              class="sc-eCYdqJ likfFv"
+              src="https://source.unsplash.com/random/800x800?r=5"
+            />
+          </div>
+          <div
+            class="sc-hKMtZM gtoZYg"
+          >
+            <img
+              alt="Foto 3"
+              class="sc-eCYdqJ likfFv"
+              src="https://source.unsplash.com/random/800x800?r=6"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+   
+</div>
+`;
+
+exports[`<GridImage> should render with default values 2`] = `
+<div>
+  <div
+    class="sc-hKMtZM gtoZYg"
+    title="Grid de Imagens"
+  />
+   
+</div>
+`;
