@@ -20,7 +20,7 @@ exports[`<GridContent> should render 1`] = `
         <div
           class="sc-jSMfEi bflyvB"
         >
-          <p
+          <div
             class="sc-hKMtZM bCrIoA"
           >
             <p>
@@ -99,7 +99,7 @@ exports[`<GridContent> should render 1`] = `
             </ul>
             
   
-          </p>
+          </div>
         </div>
       </div>
     </div>
@@ -128,7 +128,7 @@ exports[`<GridContent> should render 2`] = `
         <div
           class="sc-jSMfEi bflyvB"
         >
-          <p
+          <div
             class="sc-hKMtZM bCrIoA"
           >
             <p>
@@ -207,7 +207,7 @@ exports[`<GridContent> should render 2`] = `
             </ul>
             
   
-          </p>
+          </div>
         </div>
       </div>
     </div>

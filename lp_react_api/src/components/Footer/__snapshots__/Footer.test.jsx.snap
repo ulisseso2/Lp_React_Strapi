@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer> should render with default values 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ dZTbAT"
+  >
+    <div
+      class="sc-dkzDqf knuEcU"
+    >
+      <div
+        class="sc-gsnTZi cUyYvE"
+      >
+        <h1>
+          Olá
+        </h1>
+      </div>
+    </div>
+  </div>
+   
+</div>
+`;

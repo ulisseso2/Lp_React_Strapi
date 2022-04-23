@@ -17,13 +17,13 @@ exports[`<GridSection> should render with default values 1`] = `
         >
           My grid
         </h2>
-        <p
+        <div
           class="sc-gsnTZi cUyYvE"
         >
           Assumenda, animi praesentium voluptas velit voluptatum quam repudiandae, impedit minus consequatur iusto atque voluptatem numquam, aliquam tempore ratione culpa facere asperiores inventore?
-        </p>
+        </div>
         <div
-          class="sc-hKMtZM kSrfHP"
+          class="sc-hKMtZM gRfbNB"
         >
           <div
             class="sc-eCYdqJ jWNvvV"
@@ -33,11 +33,11 @@ exports[`<GridSection> should render with default values 1`] = `
             >
               Teste a
             </h3>
-            <p
+            <div
               class="sc-gsnTZi cUyYvE"
             >
               Lorem 1 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
-            </p>
+            </div>
           </div>
           <div
             class="sc-eCYdqJ jWNvvV"
@@ -47,11 +47,11 @@ exports[`<GridSection> should render with default values 1`] = `
             >
               Teste b
             </h3>
-            <p
+            <div
               class="sc-gsnTZi cUyYvE"
             >
               Lorem 2 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
-            </p>
+            </div>
           </div>
           <div
             class="sc-eCYdqJ jWNvvV"
@@ -61,11 +61,11 @@ exports[`<GridSection> should render with default values 1`] = `
             >
               Teste c
             </h3>
-            <p
+            <div
               class="sc-gsnTZi cUyYvE"
             >
               Lorem 3 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
-            </p>
+            </div>
           </div>
         </div>
       </div>
@@ -92,13 +92,13 @@ exports[`<GridSection> should render with default values 2`] = `
         >
           My grid
         </h2>
-        <p
+        <div
           class="sc-gsnTZi cUyYvE"
         >
           Assumenda, animi praesentium voluptas velit voluptatum quam repudiandae, impedit minus consequatur iusto atque voluptatem numquam, aliquam tempore ratione culpa facere asperiores inventore?
-        </p>
+        </div>
         <div
-          class="sc-hKMtZM kSrfHP"
+          class="sc-hKMtZM gRfbNB"
         >
           <div
             class="sc-eCYdqJ jWNvvV"
@@ -108,11 +108,11 @@ exports[`<GridSection> should render with default values 2`] = `
             >
               Teste a
             </h3>
-            <p
+            <div
               class="sc-gsnTZi cUyYvE"
             >
               Lorem 1 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
-            </p>
+            </div>
           </div>
           <div
             class="sc-eCYdqJ jWNvvV"
@@ -122,11 +122,11 @@ exports[`<GridSection> should render with default values 2`] = `
             >
               Teste b
             </h3>
-            <p
+            <div
               class="sc-gsnTZi cUyYvE"
             >
               Lorem 2 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
-            </p>
+            </div>
           </div>
           <div
             class="sc-eCYdqJ jWNvvV"
@@ -136,11 +136,11 @@ exports[`<GridSection> should render with default values 2`] = `
             >
               Teste c
             </h3>
-            <p
+            <div
               class="sc-gsnTZi cUyYvE"
             >
               Lorem 3 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
-            </p>
+            </div>
           </div>
         </div>
       </div>
