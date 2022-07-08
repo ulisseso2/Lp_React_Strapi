@@ -3,11 +3,14 @@ import mockGrid from '../../components/GridSection/mock';
 import mockGridImage from '../../components/GridImage/mock';
 import { GridImage } from '../../components/GridImage';
 import mockNavLink from '../../components/NavLinks/mock';
+import { GridTwoColumns } from '../../components/GridTwoColumn';
+import mockTwoColumns from '../../components/GridTwoColumn/mock';
 
 export const mockBase = {
   children: (
     <>
-      <GridSection {...mockGrid} />
+      <GridSection {...mockGrid} background />
+      <GridTwoColumns {...mockTwoColumns} />
       <GridSection {...mockGrid} background />
       <GridSection {...mockGrid} />
       <GridImage {...mockGridImage} />
