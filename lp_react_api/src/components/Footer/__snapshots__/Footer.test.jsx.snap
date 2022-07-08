@@ -2,21 +2,21 @@
 
 exports[`<Footer> should render with default values 1`] = `
 <div>
-  <div
-    class="sc-bczRLJ dZTbAT"
+  <footer
+    class="sc-dkzDqf dHxPKY"
   >
     <div
-      class="sc-dkzDqf knuEcU"
+      class="sc-gsnTZi dsrxxr"
     >
       <div
-        class="sc-gsnTZi cUyYvE"
+        class="sc-bczRLJ cukrCq"
       >
         <h1>
           Olá
         </h1>
       </div>
     </div>
-  </div>
+  </footer>
    
 </div>
 `;

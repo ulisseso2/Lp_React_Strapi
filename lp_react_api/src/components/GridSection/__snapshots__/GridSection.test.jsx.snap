@@ -13,7 +13,7 @@ exports[`<GridSection> should render with default values 1`] = `
         class="sc-dkzDqf budGeo"
       >
         <h2
-          class="sc-bczRLJ hGDuJC"
+          class="sc-bczRLJ itwqPE"
         >
           My grid
         </h2>
@@ -88,7 +88,7 @@ exports[`<GridSection> should render with default values 2`] = `
         class="sc-dkzDqf budGeo"
       >
         <h2
-          class="sc-bczRLJ hGDuJC"
+          class="sc-bczRLJ itwqPE"
         >
           My grid
         </h2>

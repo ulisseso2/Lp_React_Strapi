@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { Heading } from '../../components/Heading';
 import * as Styled from './styles';
 

@@ -1,4 +1,3 @@
-import P from 'prop-types';
 import * as Styled from './styles';
 import { ArrowCircleUp } from '@styled-icons/material-outlined';
 

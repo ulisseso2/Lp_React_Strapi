@@ -18,13 +18,13 @@ export const Container = styled.div`
   `}
 `;
 export const TextContainer = styled.div`
-  ${({ theme }) => css``}
+
 `;
 export const ImgContainer = styled.div`
-  ${({ theme }) => css``}
+
 `;
 export const Image = styled.img`
-  ${({ theme }) => css`
+
     width: 100%;
-  `}
+
 `;

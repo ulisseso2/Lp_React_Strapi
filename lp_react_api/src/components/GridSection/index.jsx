@@ -3,7 +3,6 @@ import * as Styled from './styles';
 import { SectionBackground } from '../SectionBackground';
 import { Heading } from '../Heading';
 import { Textcomponent } from '../Textcomponent';
-import { SectionContainer } from '../SectionContainer';
 
 export const GridSection = ({
   background = false,

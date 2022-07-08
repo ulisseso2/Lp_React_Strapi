@@ -8,7 +8,6 @@ const logoData = {
   text: 'Logo',
   link: '#target',
 };
-
 describe('<Menu />', () => {
   it('should render Logo and Main Menu Nav', () => {
     const { container } = renderTheme(
@@ -22,7 +21,7 @@ describe('<Menu />', () => {
     expect(container).toMatchSnapshot();
   });
 
-  it('should render menu mobile and button for open and close the menu', () => {
+  it('should render menu mobile and button for open and close menu', () => {
     const { container } = renderTheme(
       <Menu links={linksMock} logoData={logoData} />,
     );
