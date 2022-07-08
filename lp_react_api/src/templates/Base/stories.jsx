@@ -1,22 +1,6 @@
 import { Base } from '.';
 
-import mock from './mock';
-import { GridSection } from '../../components/GridSection';
-import mockGrid from '../../components/GridSection/mock';
-import mockGridImage from '../../components/GridImage/mock';
-import { GridImage } from '../../components/GridImage';
-
-export const mockBase = {
-  ...mock,
-  children: (
-    <>
-      <GridSection {...mockGrid} />
-      <GridSection {...mockGrid} background />
-      <GridSection {...mockGrid} />
-      <GridImage {...mockGridImage} />
-    </>
-  ),
-};
+import { mockBase } from './mock';
 
 export default {
   title: 'Template/Base',

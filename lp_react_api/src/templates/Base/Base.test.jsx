@@ -1,10 +1,10 @@
-import { screen } from '@testing-library/react';
 import { Base } from '.';
 import { renderTheme } from '../../styles/render.theme';
+import { mockBase } from './mock';
 
-describe('<Base>', () => {
+describe('<Base />', () => {
   it('should render with default values', () => {
-    renderTheme(<Base>Oi</Base>);
-    expect(screen.getByRole('heading')).toBeInTheDocument();
+    const { container } = renderTheme(<Base {...mockBase} />);
+    expect(container).toMatchSnapshot();
   });
 });

@@ -10,10 +10,10 @@ exports[`<GridImage> should render with default values 1`] = `
       class="sc-jSMfEi cRkChI"
     >
       <div
-        class="sc-bczRLJ edGOPd"
+        class="sc-bczRLJ jdQjcC"
       >
         <div
-          class="sc-gsnTZi gaQnzH"
+          class="sc-gsnTZi gCNwGM"
         >
           <h2
             class="sc-iBkjds xsJLf"
@@ -27,59 +27,59 @@ exports[`<GridImage> should render with default values 1`] = `
           </div>
         </div>
         <div
-          class="sc-dkzDqf jjpYOo"
+          class="sc-dkzDqf dAJFbj"
         >
           <div
-            class="sc-hKMtZM gtoZYg"
+            class="sc-hKMtZM jvJCmT"
           >
             <img
               alt="Foto 1"
-              class="sc-eCYdqJ likfFv"
+              class="sc-eCYdqJ jThTjU"
               src="https://source.unsplash.com/random/800x800?r=1"
             />
           </div>
           <div
-            class="sc-hKMtZM gtoZYg"
+            class="sc-hKMtZM jvJCmT"
           >
             <img
               alt="Foto 2"
-              class="sc-eCYdqJ likfFv"
+              class="sc-eCYdqJ jThTjU"
               src="https://source.unsplash.com/random/800x800?r=2"
             />
           </div>
           <div
-            class="sc-hKMtZM gtoZYg"
+            class="sc-hKMtZM jvJCmT"
           >
             <img
               alt="Foto 3"
-              class="sc-eCYdqJ likfFv"
+              class="sc-eCYdqJ jThTjU"
               src="https://source.unsplash.com/random/800x800?r=3"
             />
           </div>
           <div
-            class="sc-hKMtZM gtoZYg"
+            class="sc-hKMtZM jvJCmT"
           >
             <img
               alt="Foto 3"
-              class="sc-eCYdqJ likfFv"
+              class="sc-eCYdqJ jThTjU"
               src="https://source.unsplash.com/random/800x800?r=4"
             />
           </div>
           <div
-            class="sc-hKMtZM gtoZYg"
+            class="sc-hKMtZM jvJCmT"
           >
             <img
               alt="Foto 3"
-              class="sc-eCYdqJ likfFv"
+              class="sc-eCYdqJ jThTjU"
               src="https://source.unsplash.com/random/800x800?r=5"
             />
           </div>
           <div
-            class="sc-hKMtZM gtoZYg"
+            class="sc-hKMtZM jvJCmT"
           >
             <img
               alt="Foto 3"
-              class="sc-eCYdqJ likfFv"
+              class="sc-eCYdqJ jThTjU"
               src="https://source.unsplash.com/random/800x800?r=6"
             />
           </div>
@@ -94,7 +94,7 @@ exports[`<GridImage> should render with default values 1`] = `
 exports[`<GridImage> should render with default values 2`] = `
 <div>
   <div
-    class="sc-hKMtZM gtoZYg"
+    class="sc-hKMtZM jvJCmT"
     title="Grid de Imagens"
   />
    

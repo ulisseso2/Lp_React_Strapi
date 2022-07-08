@@ -1,4 +1,3 @@
-import { createEvent, screen, fireEvent, render } from '@testing-library/react';
 import { Home } from '.';
 import { renderTheme } from '../../styles/render.theme';
 

@@ -1,0 +1,441 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Base /> should render with default values 1`] = `
+<div>
+  <button
+    aria-label="Open/Close menu"
+    class="sc-jSMfEi hjpdrj"
+  >
+    <svg
+      aria-hidden="true"
+      aria-label="Open menu"
+      class="StyledIconBase-ea9ulj-0 lbJwfL"
+      fill="currentColor"
+      focusable="false"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M0 0h24v24H0V0z"
+        fill="none"
+      />
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+  <div
+    class="sc-hKMtZM kdTJEh"
+  >
+    <div
+      class="sc-gsnTZi dsrxxr"
+    >
+      <div
+        class="sc-eCYdqJ gSFrUi"
+      >
+        <h1
+          class="sc-dkzDqf gjnFpD"
+        >
+          <a
+            class="sc-ftvSup xIsQD"
+            href="http://localhost.com"
+          >
+            <img
+              alt="Algo"
+              src="assets/images/logo_cor_horiz.png"
+            />
+          </a>
+        </h1>
+        <nav
+          aria-label="Main menu"
+          class="sc-gKXOVf eZYxih"
+        >
+          <a
+            class="sc-iBkjds eIakOs"
+            href="#target1"
+            target="_self"
+          >
+            link 1
+          </a>
+          <a
+            class="sc-iBkjds eIakOs"
+            href="#target2"
+            target="_self"
+          >
+            link 2
+          </a>
+          <a
+            class="sc-iBkjds eIakOs"
+            href="#target3"
+            target="_self"
+          >
+            link 3
+          </a>
+          <a
+            class="sc-iBkjds eIakOs"
+            href="#target4"
+            target="_self"
+          >
+            link 4
+          </a>
+          <a
+            class="sc-iBkjds eIakOs"
+            href="#target5"
+            target="_self"
+          >
+            link 5
+          </a>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-bczRLJ nGRoa"
+  >
+    <div
+      class="sc-breuTD kHFsBR"
+      id=""
+    >
+      <div
+        class="sc-gsnTZi dsrxxr"
+      >
+        <div
+          class="sc-iqcoie bJBlDA"
+        >
+          <h2
+            class="sc-dkzDqf egQaul"
+          >
+            My grid
+          </h2>
+          <div
+            class="sc-papXJ SkFJa"
+          >
+            Assumenda, animi praesentium voluptas velit voluptatum quam repudiandae, impedit minus consequatur iusto atque voluptatem numquam, aliquam tempore ratione culpa facere asperiores inventore?
+          </div>
+          <div
+            class="sc-crXcEl ifFcGz"
+          >
+            <div
+              class="sc-evZas kAvlfH"
+            >
+              <h3
+                class="sc-dkzDqf dimWZg"
+              >
+                Teste a
+              </h3>
+              <div
+                class="sc-papXJ SkFJa"
+              >
+                Lorem 1 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+              </div>
+            </div>
+            <div
+              class="sc-evZas kAvlfH"
+            >
+              <h3
+                class="sc-dkzDqf dimWZg"
+              >
+                Teste b
+              </h3>
+              <div
+                class="sc-papXJ SkFJa"
+              >
+                Lorem 2 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+              </div>
+            </div>
+            <div
+              class="sc-evZas kAvlfH"
+            >
+              <h3
+                class="sc-dkzDqf dimWZg"
+              >
+                Teste c
+              </h3>
+              <div
+                class="sc-papXJ SkFJa"
+              >
+                Lorem 3 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD iUnydj"
+      id=""
+    >
+      <div
+        class="sc-gsnTZi dsrxxr"
+      >
+        <div
+          class="sc-iqcoie bJBlDA"
+        >
+          <h2
+            class="sc-dkzDqf hFZfnm"
+          >
+            My grid
+          </h2>
+          <div
+            class="sc-papXJ SkFJa"
+          >
+            Assumenda, animi praesentium voluptas velit voluptatum quam repudiandae, impedit minus consequatur iusto atque voluptatem numquam, aliquam tempore ratione culpa facere asperiores inventore?
+          </div>
+          <div
+            class="sc-crXcEl ifFcGz"
+          >
+            <div
+              class="sc-evZas kAvlfH"
+            >
+              <h3
+                class="sc-dkzDqf haJUob"
+              >
+                Teste a
+              </h3>
+              <div
+                class="sc-papXJ SkFJa"
+              >
+                Lorem 1 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+              </div>
+            </div>
+            <div
+              class="sc-evZas kAvlfH"
+            >
+              <h3
+                class="sc-dkzDqf haJUob"
+              >
+                Teste b
+              </h3>
+              <div
+                class="sc-papXJ SkFJa"
+              >
+                Lorem 2 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+              </div>
+            </div>
+            <div
+              class="sc-evZas kAvlfH"
+            >
+              <h3
+                class="sc-dkzDqf haJUob"
+              >
+                Teste c
+              </h3>
+              <div
+                class="sc-papXJ SkFJa"
+              >
+                Lorem 3 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD kHFsBR"
+      id=""
+    >
+      <div
+        class="sc-gsnTZi dsrxxr"
+      >
+        <div
+          class="sc-iqcoie bJBlDA"
+        >
+          <h2
+            class="sc-dkzDqf egQaul"
+          >
+            My grid
+          </h2>
+          <div
+            class="sc-papXJ SkFJa"
+          >
+            Assumenda, animi praesentium voluptas velit voluptatum quam repudiandae, impedit minus consequatur iusto atque voluptatem numquam, aliquam tempore ratione culpa facere asperiores inventore?
+          </div>
+          <div
+            class="sc-crXcEl ifFcGz"
+          >
+            <div
+              class="sc-evZas kAvlfH"
+            >
+              <h3
+                class="sc-dkzDqf dimWZg"
+              >
+                Teste a
+              </h3>
+              <div
+                class="sc-papXJ SkFJa"
+              >
+                Lorem 1 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+              </div>
+            </div>
+            <div
+              class="sc-evZas kAvlfH"
+            >
+              <h3
+                class="sc-dkzDqf dimWZg"
+              >
+                Teste b
+              </h3>
+              <div
+                class="sc-papXJ SkFJa"
+              >
+                Lorem 2 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+              </div>
+            </div>
+            <div
+              class="sc-evZas kAvlfH"
+            >
+              <h3
+                class="sc-dkzDqf dimWZg"
+              >
+                Teste c
+              </h3>
+              <div
+                class="sc-papXJ SkFJa"
+              >
+                Lorem 3 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD kHFsBR"
+      id=""
+    >
+      <div
+        class="sc-gsnTZi dsrxxr"
+      >
+        <div
+          class="sc-ksZaOG kDhScO"
+        >
+          <div
+            class="sc-hAZoDl fBeaxd"
+          >
+            <h2
+              class="sc-dkzDqf dimWZg"
+            >
+              Grid de Imagens
+            </h2>
+            <div
+              class="sc-papXJ SkFJa"
+            >
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci numquam explicabo error omnis cumque.
+            </div>
+          </div>
+          <div
+            class="sc-fnykZs hfxkFm"
+          >
+            <div
+              class="sc-fEOsli laRYBU"
+            >
+              <img
+                alt="Foto 1"
+                class="sc-bjUoiL eYmAxz"
+                src="https://source.unsplash.com/random/800x800?r=1"
+              />
+            </div>
+            <div
+              class="sc-fEOsli laRYBU"
+            >
+              <img
+                alt="Foto 2"
+                class="sc-bjUoiL eYmAxz"
+                src="https://source.unsplash.com/random/800x800?r=2"
+              />
+            </div>
+            <div
+              class="sc-fEOsli laRYBU"
+            >
+              <img
+                alt="Foto 3"
+                class="sc-bjUoiL eYmAxz"
+                src="https://source.unsplash.com/random/800x800?r=3"
+              />
+            </div>
+            <div
+              class="sc-fEOsli laRYBU"
+            >
+              <img
+                alt="Foto 3"
+                class="sc-bjUoiL eYmAxz"
+                src="https://source.unsplash.com/random/800x800?r=4"
+              />
+            </div>
+            <div
+              class="sc-fEOsli laRYBU"
+            >
+              <img
+                alt="Foto 3"
+                class="sc-bjUoiL eYmAxz"
+                src="https://source.unsplash.com/random/800x800?r=5"
+              />
+            </div>
+            <div
+              class="sc-fEOsli laRYBU"
+            >
+              <img
+                alt="Foto 3"
+                class="sc-bjUoiL eYmAxz"
+                src="https://source.unsplash.com/random/800x800?r=6"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer
+      class="sc-jqUVSM hLfacg"
+    >
+      <div
+        class="sc-gsnTZi dsrxxr"
+      >
+        <div
+          class="sc-papXJ SkFJa"
+        >
+          <p>
+             
+            <a
+              href="https://linkedin.com/in/ulissesoliveira2"
+              target="_blank"
+            >
+              Feito com 
+              <span>
+                ❤
+              </span>
+               por Ulisses Oliveira 
+            </a>
+          </p>
+        </div>
+      </div>
+    </footer>
+  </div>
+  <a
+    class="sc-kDDrLX juucaU"
+    href="#"
+  >
+    <svg
+      aria-label="Voltar para o topo"
+      class="StyledIconBase-ea9ulj-0 lbJwfL"
+      fill="currentColor"
+      focusable="false"
+      role="img"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <title>
+        Ir para o topo
+      </title>
+      <rect
+        fill="none"
+        height="24"
+        width="24"
+      />
+      <path
+        d="M12 20c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8m0 2c5.52 0 10-4.48 10-10S17.52 2 12 2 2 6.48 2 12s4.48 10 10 10zm-1-10v4h2v-4h3l-4-4-4 4h3z"
+      />
+    </svg>
+  </a>
+   
+</div>
+`;

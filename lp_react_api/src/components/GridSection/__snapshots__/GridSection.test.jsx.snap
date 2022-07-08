@@ -26,7 +26,7 @@ exports[`<GridSection> should render with default values 1`] = `
           class="sc-hKMtZM gRfbNB"
         >
           <div
-            class="sc-eCYdqJ jWNvvV"
+            class="sc-eCYdqJ kHXwg"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -40,7 +40,7 @@ exports[`<GridSection> should render with default values 1`] = `
             </div>
           </div>
           <div
-            class="sc-eCYdqJ jWNvvV"
+            class="sc-eCYdqJ kHXwg"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -54,7 +54,7 @@ exports[`<GridSection> should render with default values 1`] = `
             </div>
           </div>
           <div
-            class="sc-eCYdqJ jWNvvV"
+            class="sc-eCYdqJ kHXwg"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -101,7 +101,7 @@ exports[`<GridSection> should render with default values 2`] = `
           class="sc-hKMtZM gRfbNB"
         >
           <div
-            class="sc-eCYdqJ jWNvvV"
+            class="sc-eCYdqJ kHXwg"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -115,7 +115,7 @@ exports[`<GridSection> should render with default values 2`] = `
             </div>
           </div>
           <div
-            class="sc-eCYdqJ jWNvvV"
+            class="sc-eCYdqJ kHXwg"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -129,7 +129,7 @@ exports[`<GridSection> should render with default values 2`] = `
             </div>
           </div>
           <div
-            class="sc-eCYdqJ jWNvvV"
+            class="sc-eCYdqJ kHXwg"
           >
             <h3
               class="sc-bczRLJ fnHBwd"

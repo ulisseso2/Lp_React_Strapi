@@ -13,7 +13,7 @@ exports[`<GridTwoColumns> should render Two Columns grid 1`] = `
         class="sc-gsnTZi gLKscr"
       >
         <div
-          class="sc-dkzDqf hOBXQg"
+          class="sc-dkzDqf dsMWST"
         >
           <h2
             class="sc-bczRLJ hGDuJC"
@@ -27,11 +27,11 @@ exports[`<GridTwoColumns> should render Two Columns grid 1`] = `
           </div>
         </div>
         <div
-          class="sc-hKMtZM ixKqbH"
+          class="sc-hKMtZM hexIEE"
         >
           <img
             alt="Grid two columns"
-            class="sc-eCYdqJ fsGMuB"
+            class="sc-eCYdqJ iUViWO"
             src="assets/images/js.jpeg"
           />
         </div>
