@@ -93,7 +93,7 @@ exports[`<Base /> should render with default values 1`] = `
     class="sc-bczRLJ nGRoa"
   >
     <div
-      class="sc-breuTD kHFsBR"
+      class="sc-breuTD iUnydj"
       id=""
     >
       <div
@@ -103,7 +103,7 @@ exports[`<Base /> should render with default values 1`] = `
           class="sc-iqcoie bJBlDA"
         >
           <h2
-            class="sc-dkzDqf egQaul"
+            class="sc-dkzDqf hFZfnm"
           >
             My grid
           </h2>
@@ -119,7 +119,7 @@ exports[`<Base /> should render with default values 1`] = `
               class="sc-evZas kAvlfH"
             >
               <h3
-                class="sc-dkzDqf dimWZg"
+                class="sc-dkzDqf haJUob"
               >
                 Teste a
               </h3>
@@ -133,7 +133,7 @@ exports[`<Base /> should render with default values 1`] = `
               class="sc-evZas kAvlfH"
             >
               <h3
-                class="sc-dkzDqf dimWZg"
+                class="sc-dkzDqf haJUob"
               >
                 Teste b
               </h3>
@@ -147,7 +147,7 @@ exports[`<Base /> should render with default values 1`] = `
               class="sc-evZas kAvlfH"
             >
               <h3
-                class="sc-dkzDqf dimWZg"
+                class="sc-dkzDqf haJUob"
               >
                 Teste c
               </h3>
@@ -157,6 +157,42 @@ exports[`<Base /> should render with default values 1`] = `
                 Lorem 3 ipsum dolor sit amet consectetur adipisicing elit. Architecto rem cupiditate dolorum voluptatem in pariatur cumque exercitationem molestias aliquid. Magni veniam numquam, reiciendis voluptas aliquid ut saepe vero vel ratione!
               </div>
             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-breuTD kHFsBR"
+      id=""
+    >
+      <div
+        class="sc-gsnTZi dsrxxr"
+      >
+        <div
+          class="sc-idiyUo dgdyLM"
+        >
+          <div
+            class="sc-dIouRR NjFmm"
+          >
+            <h2
+              class="sc-dkzDqf XcrHn"
+            >
+              Grid two columns
+            </h2>
+            <div
+              class="sc-papXJ SkFJa"
+            >
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio magnam culpa eveniet doloribus harum? Ipsam, a necessitatibus? Sequi sunt accusantium quod, animi iure a, aliquid dolor ea vel magni dolore?
+            </div>
+          </div>
+          <div
+            class="sc-hHLeRK gRTBrN"
+          >
+            <img
+              alt="Grid two columns"
+              class="sc-dmRaPn kiVeuC"
+              src="assets/images/js.jpeg"
+            />
           </div>
         </div>
       </div>
@@ -392,21 +428,7 @@ exports[`<Base /> should render with default values 1`] = `
       >
         <div
           class="sc-papXJ SkFJa"
-        >
-          <p>
-             
-            <a
-              href="https://linkedin.com/in/ulissesoliveira2"
-              target="_blank"
-            >
-              Feito com 
-              <span>
-                ❤
-              </span>
-               por Ulisses Oliveira 
-            </a>
-          </p>
-        </div>
+        />
       </div>
     </footer>
   </div>
